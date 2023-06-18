@@ -1,6 +1,6 @@
 ![Jiro Heart stemming from a cluster of magic misty clouds for open source](https://githubcontent.s3.amazonaws.com/jiro_heart_and_cloud.svg) 
 
-Jiro is heads down and working...
+Jiro is heads down and working... 💚
 
 ## Community
 
