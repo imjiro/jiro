@@ -1,5 +1,5 @@
 <!--[Jiro Heart stemming from a cluster of magic misty clouds for open source]-->
-<img src="https://githubcontent.s3.amazonaws.com/jiro_heart_and_cloud.svg" width="555">
+<img src="https://githubcontent.s3.amazonaws.com/jiro_heart_and_cloud.svg" width="500">
 
 
 Jiro is heads down and working... 🙃
