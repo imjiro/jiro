@@ -12,7 +12,7 @@ Jiro is heads down and working... 🙃
 
 ## Get in touch!
 
-More about what we're doing in open source soon.
+We'll be sharing more about what we're doing in open source and beyond soon.
 Interested in a career at Jiro? Check out our opportunities on [Jiro Careers](https://careers.imjiro.com/)!
 
 👋  [@jiroglobal](https://twitter.com/jiroglobal)
